@@ -1,0 +1,49 @@
+.main .applyforjob {
+  margin-top: 20px;
+  line-height: 32px;
+  margin-bottom: 100px;
+}
+
+.main .applyforjob .border {
+  padding: 30px 20px;
+  word-wrap: break-word;
+}
+
+.main .applyforjob .border h4 {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.main .applyforjob .border a {
+  margin-left: 80px;
+}
+
+.main .applyforjob .border p {
+  margin-left: 50px;
+  margin-bottom: 0px;
+}
+
+.main .applyforjob .border .end {
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.main .applyforjob .border .applicant {
+  text-align: end;
+  margin-right: 20px;
+}
+
+.main .applyforjob .border .name {
+  margin-left: 50px;
+}
+
+.main .applyforjob .border .date {
+  margin-left: 50px;
+}
+
+.main .resumeAi {
+  width: 100%;
+  height: 100%;
+  margin: 0px auto;
+}
+/*# sourceMappingURL=style.css.map */
